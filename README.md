@@ -15,6 +15,7 @@ If you want to test this project you will have to download the .html, .js, and .
 > This project has a very simple user interface.
 
 You will require to start a webserver in order to view the result on your computer. You can try any of the commonly available webservers.
+
 There are three options in a selector: Null, Deposit, and Cash Back. Each one of these options renders a different view on the browser. If we want to make a deposit then select Deposit. If we would like to make a withdrawal, then choose Cash Back. 
 
 The total amount displayed at the top of the browser will show the total amount remaining in the account after each operation.
